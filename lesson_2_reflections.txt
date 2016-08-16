@@ -28,3 +28,6 @@ combine changes in one master. it shows the merging
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+ Pros its simpler when no conflict
+ Cons hassle to do manually
